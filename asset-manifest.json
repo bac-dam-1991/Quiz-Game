@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/quiz-game/static/css/main.3c1bc430.chunk.css",
-    "main.js": "/quiz-game/static/js/main.2e1ae1e8.chunk.js",
-    "main.js.map": "/quiz-game/static/js/main.2e1ae1e8.chunk.js.map",
-    "runtime-main.js": "/quiz-game/static/js/runtime-main.c11f32b6.js",
-    "runtime-main.js.map": "/quiz-game/static/js/runtime-main.c11f32b6.js.map",
-    "static/css/2.6347fcf8.chunk.css": "/quiz-game/static/css/2.6347fcf8.chunk.css",
-    "static/js/2.c04c3f70.chunk.js": "/quiz-game/static/js/2.c04c3f70.chunk.js",
-    "static/js/2.c04c3f70.chunk.js.map": "/quiz-game/static/js/2.c04c3f70.chunk.js.map",
-    "index.html": "/quiz-game/index.html",
-    "static/css/2.6347fcf8.chunk.css.map": "/quiz-game/static/css/2.6347fcf8.chunk.css.map",
-    "static/css/main.3c1bc430.chunk.css.map": "/quiz-game/static/css/main.3c1bc430.chunk.css.map",
-    "static/js/2.c04c3f70.chunk.js.LICENSE.txt": "/quiz-game/static/js/2.c04c3f70.chunk.js.LICENSE.txt"
+    "main.css": "/Quiz-Game/static/css/main.54fc15ca.chunk.css",
+    "main.js": "/Quiz-Game/static/js/main.43f3dbcc.chunk.js",
+    "main.js.map": "/Quiz-Game/static/js/main.43f3dbcc.chunk.js.map",
+    "runtime-main.js": "/Quiz-Game/static/js/runtime-main.f3bd948a.js",
+    "runtime-main.js.map": "/Quiz-Game/static/js/runtime-main.f3bd948a.js.map",
+    "static/css/2.0faa23cf.chunk.css": "/Quiz-Game/static/css/2.0faa23cf.chunk.css",
+    "static/js/2.1069466e.chunk.js": "/Quiz-Game/static/js/2.1069466e.chunk.js",
+    "static/js/2.1069466e.chunk.js.map": "/Quiz-Game/static/js/2.1069466e.chunk.js.map",
+    "index.html": "/Quiz-Game/index.html",
+    "static/css/2.0faa23cf.chunk.css.map": "/Quiz-Game/static/css/2.0faa23cf.chunk.css.map",
+    "static/css/main.54fc15ca.chunk.css.map": "/Quiz-Game/static/css/main.54fc15ca.chunk.css.map",
+    "static/js/2.1069466e.chunk.js.LICENSE.txt": "/Quiz-Game/static/js/2.1069466e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c11f32b6.js",
-    "static/css/2.6347fcf8.chunk.css",
-    "static/js/2.c04c3f70.chunk.js",
-    "static/css/main.3c1bc430.chunk.css",
-    "static/js/main.2e1ae1e8.chunk.js"
+    "static/js/runtime-main.f3bd948a.js",
+    "static/css/2.0faa23cf.chunk.css",
+    "static/js/2.1069466e.chunk.js",
+    "static/css/main.54fc15ca.chunk.css",
+    "static/js/main.43f3dbcc.chunk.js"
   ]
 }
